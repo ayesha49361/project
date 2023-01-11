@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    font-family: "Merriweather", sans-serif;
+}
+.banner {
+    background-image: url(images/art2.jpg);
+    width: 100%;
+    height: 100vh;
+    background-position: center ;
+}
+.banner-heading 
+{
+   margin-top: 150px;
+}
+.blog .blog-img{
+    background-image: url(images/art1.jpg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img3{
+    background-image: url(images/art3.jpg);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+.blog .blog-img1{
+    background-image: url(images/art4.webp);
+    width: 50%;
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
